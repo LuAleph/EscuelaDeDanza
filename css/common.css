@@ -1,0 +1,108 @@
+h1{
+	padding: 5% 5%;
+	font-family:  LatoHeavy;
+}
+
+nav ul{
+	list-style: none;
+}
+
+li{
+	font-weight: bold;
+	margin-bottom: 5%;
+}
+ul{
+	width: 60%;
+	margin-left: 20%;
+}
+
+.bor{
+	border:solid 1px;
+}
+
+nav li:hover a{
+	text-shadow: 1px 1px;
+	font-size: 20px;
+}
+
+.ballet{
+	background-image: url("../img/shoes_1.jpg");
+	background-size: 66%;
+	width:100%;
+	height:590px;
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+
+/*Formulario*/
+textarea,input{
+	width: 80%;
+	height: 50px;
+	margin-bottom: 2%;
+}
+button{
+   width: 80%;
+   height: 50px;
+   margin-bottom: 2%;
+   background-color: #021631;
+}
+
+
+fieldset {
+	margin-top: 3%;
+	background: none;
+	border: none;
+	intrinsic;
+}
+
+
+.icono1{
+	background-image: url("../img/contac/nombre.png");
+}
+.icono2{
+	background-image: url("../img/contac/msg.png");
+}
+.icono3{
+	background-image: url("../img/contac/lapiz.png");
+	background-repeat: no-repeat;
+    padding:3%;
+}
+
+ form{
+ 	padding-left: 10%;
+ 	height: 600px;
+ 	padding-top: 8%
+ }
+
+footer{
+	width: 100%;
+	height: 10px;
+
+}
+/*Formulario*/
+
+
+.fondoazul2{
+	background-color: #021631;
+	width: 100%;
+	height:100px;
+	padding-top: 2%;
+}
+
+.fondoazul2 p{
+	margin-left: -25%;
+}
+
+.marg-l{
+  margin-left: 10%
+}
+
+.italic{
+  font-style: italic;
+  font-size: 39px;
+  font-weight: bolder;
+  margin-top: 10%;
+  color: black;
+ 
+}
+

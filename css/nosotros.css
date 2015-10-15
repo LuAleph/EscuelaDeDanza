@@ -1,0 +1,75 @@
+.bg-nosotros{
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	background-size: 144%;
+	background-position: 2% 41%;
+	height: 399px;
+}
+
+
+.Pfondo{
+	width: 60%;
+	height: 200px;
+	background-color: black; 
+	opacity: 0.5;
+	margin-left: 50%;
+	margin-top: 10%
+}
+
+h2, .Pfondo{
+	padding: 3% 0 3%;
+}
+
+.bg-cubes{
+	background-image: url("../img/cubes.png");
+	background-size: 1%;
+	height: 400px;
+	width: 100%;
+ }
+
+ .bg-cubes div,p{
+ 	padding: 2% 2%;
+ 	margin-right: 5%;
+ }
+
+/* Profesores*/
+.pf1{
+	background-image: url("../img/profesor_4.jpg");
+}
+.pf2{
+	background-image: url("../img/profesor_14.jpg");
+}
+.pf3{
+	background-image: url("../img/profesor_1.jpg");
+}
+.pf4{
+	background-image: url("../img/profesor_10.jpg");
+}
+.pf5{
+	background-image: url("../img/profesor_11.jpg");
+}
+.pf6{
+	background-image: url("../img/profesor_12.jpg");
+}
+.pf7{
+	background-image: url("../img/profesor_9.jpg");
+}
+.pf9{
+	background-image: url("../img/profesor_15.jpg");
+}
+/* Profesores*/
+
+.profesores{
+	background-size: 100%;
+	background-position: top;
+	height: 165px; 
+	margin-bottom: 1%
+ }
+
+ p, .profesores {
+    margin-bottom: 20% 
+ }
+
+.margt-3{
+	margin-top: 3%
+}
